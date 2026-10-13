@@ -5,7 +5,7 @@
  *   - Ejecutar como: Yo
  *   - Quién tiene acceso: Cualquier persona
  */
-const CLAVE = 'NEXORA-STUDIO-PANEL-ADMINISTRATIVO-DE-APPS';   // <- cámbiala por una clave larga y propia
+const CLAVE = 'LuiguiZapataojeda09';   // <- cámbiala por una clave larga y propia
 const HOJA = 'Proyectos';
 const CARPETA = 'HANGAR_imagenes';   // carpeta de Drive para las imágenes de referencia
 const COLS = ['id','name','url','desc','type','status','tags','tech','notes','img','fav','opens','last','created','updated'];
